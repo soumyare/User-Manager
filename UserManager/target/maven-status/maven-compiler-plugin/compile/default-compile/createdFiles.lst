@@ -1,0 +1,8 @@
+com\example\UserManager\UserManagerApplication.class
+com\example\UserManager\repositories\UserRepository.class
+com\example\UserManager\entities\User.class
+com\example\UserManager\services\UserService.class
+com\example\UserManager\exceptions\UserNotFoundException.class
+com\example\UserManager\controllers\MainController.class
+com\example\UserManager\controllers\UserController.class
+com\example\UserManager\controllers\UserExceptionController.class
